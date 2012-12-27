@@ -16,4 +16,16 @@ snippet left
 # →
 ```
 
+You can also list all the snippets:
+
+```
+./parser.rb html.snippets
+```
+
+```
+snippet nbs
+{ and so on }
+snippet wbr
+```
+
 It's quick and dirty but it does work.
